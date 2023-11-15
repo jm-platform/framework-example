@@ -35,7 +35,7 @@ typedef struct ModuleInterface
     ModuleBuild	                	moduleBuild;
 
     ModulePreInitialization		*modulePreInitialization;
-    SettingsHandler				*settingsHandler;
+    SettingsHandler			*settingsHandler;
     ModulePostInitialization		*modulePostInitialization;
     ModuleDestroyData		    	*moduleDestroyData;
     ModuleMainloopFunction	    	*moduleMainloopFunction;
