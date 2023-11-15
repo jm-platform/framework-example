@@ -1,0 +1,39 @@
+{
+    "sensor-list" : [
+        {
+            "id" : 0,
+            "name" : "sensor-1",
+            "identifier" : "blue",
+            "online" : true
+        },
+        {
+            "id" : 1,
+            "name" : "sensor-1",
+            "identifier" : "blue",
+            "online" : true 
+        },
+        {
+            "id" : 2,
+            "name" : "sensor-2",
+            "identifier" : "red",
+            "online" : true 
+        },
+        {
+            "id" : 3,
+            "name" : "sensor-2",
+            "identifier" : "red",
+            "online" : true 
+        },
+        {
+            "id" : 4,
+            "name" : "sensor-2",
+            "identifier" : "red",
+            "online" : true 
+        },
+        {
+            "id" : 5,
+            "name" : "sensor-2",
+            "identifier" : "red",
+            "online" : true 
+        }]
+}
