@@ -53,7 +53,7 @@ const ModuleInterface mod_skeleton_ModuleInterface =
 {
 
 		/* application info */
-        MOD_SKELETON_NAME,
+    	MOD_SKELETON_NAME,
 		MOD_SKELETON_VERSION,
 		MOD_SKELETON_BUILD,
 
@@ -63,7 +63,7 @@ const ModuleInterface mod_skeleton_ModuleInterface =
 		mod_skeleton_PostInitialisation,			/* Module PostInitialisationPtr */
 		mod_skeleton_DestroyData,				/* Module DestroyDataPtr */
 		mod_skeleton_MainloopFunction,				/* Module MainloopFunctionPtr */
-        NULL							    	/* Module TestFunctionPtr */
+		NULL							    	/* Module TestFunctionPtr */
 
 };
 ```
